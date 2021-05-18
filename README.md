@@ -1,5 +1,6 @@
 # doToday 
-## [Watch the video](https://youtu.be/ERDeLzjI-PQ)
+## [![Watch the video](https://img.youtube.com/vi/ERDeLzjI-PQ/0.jpg)](https://youtu.be/ERDeLzjI-PQ)
+
 An application to help users manage their time efficiently while productively collaborating with peers. 
 
 ### Inspiration

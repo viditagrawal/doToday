@@ -24,7 +24,7 @@ We definitely learned a lot about user design and UIKit, struggling but eventual
 ### What's next for doToday
 First and foremost, we will implement a framework to be able to port the app to multiple different operating systems after we gain a better understanding of Universal Swift. Then we shall expand and allow tutors to sign up and mentor individuals and provide in-app blockchain or Stripe technology to easily handle payments. Finally, we intend to increase customizability by allowing users to create custom categories giving them more freedom as to how they would like to schedule their day.
 
-### How viable is doToday in the market
+### How viable is doToday in the market?
 We believe that doToday would thrive in today's environment as many people are still in quarantine and often feel demotivated if they are unable to complete everything they aimed to achieve during the day. Our application has motivational quotes to remind them of their goals and aims to show users that by properly structuring their day, they are able to achieve significantly more than by tackling goals in a seemingly random pattern. Finally, with the collaboration feature, we believe that people will be able to foster more meaningful relationships as users will be able to learn from each other, and depend on each other. 
 
 

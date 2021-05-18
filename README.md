@@ -1,5 +1,6 @@
-# doToday
-An application to help users manage their time efficiently while productively collaborating with peers.
+# doToday 
+## [![Watch the video](https://img.youtube.com/vi/ERDeLzjI-PQ/maxresdefault.jpg)](https://youtu.be/ERDeLzjI-PQ)
+An application to help users manage their time efficiently while productively collaborating with peers. 
 
 ### Inspiration
 Even before this year, one of the most crucial skills we began and still continue to work on is our time management. Although we started to get the hang of it as we progressed through high school, moving school online brought back and further exacerbated any procrastination tendencies that had been slowly fleeting. One extension of the Pomodoro technique we had found useful in the past was something called Timeboxing. This is when you allocate a fixed time period for a set planned activity. Additionally, the COVID-19 pandemic has made it harder than ever to be able to meet new people and engage in group activities which led to the creation of our collaboration feature.
